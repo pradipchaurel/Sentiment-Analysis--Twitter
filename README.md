@@ -12,11 +12,9 @@ This project performs sentiment analysis on Twitter data to classify tweets as p
 - Logistic Regression
 
 
--- Evaluation: Provides accuracy scores and detailed classification reports for each model.
--- Sample Predictions: Test models on sample tweets for quick sentiment analysis.
-
 ## Dataset
-The dataset (twitter_data.csv) contains 1.6 million tweets with polarity labels (0 for negative, 4 for positive, and 2 for neutral, which is filtered out). The dataset is split into 80% training  and 20% testing.
+The dataset (Sentiment140 dataset) contains 1.6 million tweets with polarity labels (0 for negative, 4 for positive, and 2 for neutral, which is filtered out). The dataset is split into 80% training  and 20% testing.
+Dataset Link: https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
 
 ## Results
 Model performance on the test set:
