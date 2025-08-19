@@ -19,9 +19,9 @@ Dataset Link: https://www.kaggle.com/datasets/kazanova/sentiment140?resource=dow
 ## Results
 Model performance on the test set:
 
-- Bernoulli Naive Bayes: 61.63% accuracy
-- Linear SVM: 57.68% accuracy
-- Logistic Regression: 58.11% accuracy
+- Bernoulli Naive Bayes: 62% accuracy
+- Linear SVM: 58% accuracy
+- Logistic Regression: 58% accuracy
 
 Detailed classification reports are generated for precision, recall, and F1-score.
 
