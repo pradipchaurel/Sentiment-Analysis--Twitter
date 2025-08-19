@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 
 ## Overview
-This project performs sentiment analysis on Twitter data to classify tweets as positive or negative using machine learning techniques. It leverages natural language processing (NLP) to preprocess text and trains three models—Bernoulli Naive Bayes, Linear SVM, and Logistic Regression—to predict sentiment. The project uses a dataset of 1.6 million tweets, achieving a baseline accuracy of up to 61.6% with the Bernoulli Naive Bayes model.
+This project performs sentiment analysis on Twitter data to classify tweets as positive or negative using machine learning techniques. It leverages natural language processing (NLP) to preprocess text and trains three models—Bernoulli Naive Bayes, Linear SVM, and Logistic Regression—to predict sentiment. The project uses a dataset of 1.6 million tweets, achieving a baseline accuracy of up to 62% with the Bernoulli Naive Bayes model.
 
 ## Features
 - Data Preprocessing: Loads and cleans Twitter data, converting text to lowercase and filtering out neutral sentiments.
